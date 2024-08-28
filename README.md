@@ -1,6 +1,6 @@
-# sample-react-project
+# Top 10 List Web App
 
-A simple React web application
+A simple React web application that has a built in top 10 character list, with a form that allows for adding more entries. List returns to default on refresh (no server-side usage within the scope of this project).
 
 Technical Skills Developed
 
